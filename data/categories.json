@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "ai-video-editors",
+    "name": "AI Video Editors",
+    "description": "AI-powered video editing tools for creators"
+  },
+  {
+    "slug": "ai-voiceover-tools",
+    "name": "AI Voiceover Tools",
+    "description": "Text-to-speech and voice cloning for content creators"
+  },
+  {
+    "slug": "ai-image-generators",
+    "name": "AI Image Generators",
+    "description": "AI tools for generating images and artwork"
+  },
+  {
+    "slug": "ai-music-generators",
+    "name": "AI Music Generators",
+    "description": "AI tools for creating royalty-free music and sound"
+  },
+  {
+    "slug": "ai-thumbnail-makers",
+    "name": "AI Thumbnail Makers",
+    "description": "AI-powered YouTube and social media thumbnail creators"
+  },
+  {
+    "slug": "ai-writing-assistants",
+    "name": "AI Writing Assistants",
+    "description": "AI tools for scripts, captions, and copy"
+  },
+  {
+    "slug": "ai-avatar-generators",
+    "name": "AI Avatar Generators",
+    "description": "Tools for creating digital avatars and virtual presenters"
+  },
+  {
+    "slug": "ai-subtitle-generators",
+    "name": "AI Subtitle & Caption Tools",
+    "description": "Auto-captioning and subtitle generation tools"
+  },
+  {
+    "slug": "ai-social-media-tools",
+    "name": "AI Social Media Tools",
+    "description": "AI scheduling, caption writing, and content repurposing"
+  },
+  {
+    "slug": "ai-podcast-tools",
+    "name": "AI Podcast Tools",
+    "description": "AI tools for podcast editing, transcription, and show notes"
+  },
+  {
+    "slug": "ai-seo-tools",
+    "name": "AI SEO Tools",
+    "description": "AI-powered tools for search optimization and content strategy"
+  },
+  {
+    "slug": "ai-animation-tools",
+    "name": "AI Animation Tools",
+    "description": "AI tools for creating animations and motion graphics"
+  }
+]
