@@ -2649,5 +2649,113 @@
     "rating": 4.4,
     "metaTitle": "Artflow AI review 2026: create animated stories with consistent characters",
     "metaDescription": "Artflow AI generates animated videos with consistent characters across scenes. Director Mode, voice acting, storytelling. Review."
+  },
+  {
+    "slug": "perplexity-ai",
+    "name": "Perplexity AI",
+    "category": "ai-writing-assistants",
+    "tagline": "AI-powered answer engine with real-time web search",
+    "description": "Perplexity AI reimagines search by combining large language models with real-time web data to provide direct, conversational answers with cited sources. Unlike traditional search engines that return links, Perplexity synthesizes information from multiple sources and delivers comprehensive answers to your questions with inline citations, making research dramatically faster and more efficient.\n\nThe platform excels at complex research tasks, offering Pro Search mode that uses advanced reasoning to break down multi-part questions and search strategically across academic databases, news sources, and specialized content. Perplexity maintains conversation context, allowing you to ask follow-up questions naturally and dive deeper into topics. The Collections feature lets you organize research projects, while Spaces enables team collaboration with shared knowledge bases.\n\nWhat distinguishes Perplexity is accuracy combined with transparency. Every claim includes citations you can verify, reducing AI hallucination concerns. The platform has become essential for researchers, students, writers, and professionals who need reliable information quickly. Recent updates include image generation, code interpreter, and API access for building Perplexity-powered applications. With mobile apps and browser extensions, Perplexity fits seamlessly into research workflows.",
+    "features": [
+      "Real-time web search integration",
+      "Cited sources for every answer",
+      "Pro Search advanced reasoning",
+      "Collections for organizing research",
+      "Team Spaces collaboration",
+      "Focus modes (academic, writing, video, social)",
+      "Image generation",
+      "Mobile apps and extensions"
+    ],
+    "pricing": "Free tier unlimited. Pro $20/mo for Pro Search (600 queries/day), unlimited file uploads, API access",
+    "url": "https://perplexity.ai",
+    "bestFor": "Researchers, writers, and students who need accurate information with verified sources",
+    "pros": [
+      "Cited sources build trust",
+      "Pro Search mode exceptional for research",
+      "Generous free tier",
+      "Fast, conversational interface",
+      "Strong mobile experience"
+    ],
+    "cons": [
+      "Pro Search limited to 600/day",
+      "Less creative than ChatGPT for open-ended tasks",
+      "Citations sometimes incomplete",
+      "Limited customization options"
+    ],
+    "rating": 4.7,
+    "metaTitle": "Perplexity AI Review 2026: AI Answer Engine with Cited Sources",
+    "metaDescription": "Perplexity AI delivers research answers with real-time web data and citations. Pro Search, Collections, team collaboration. Review."
+  },
+  {
+    "slug": "invideo-ai",
+    "name": "Invideo AI",
+    "category": "ai-video-editors",
+    "tagline": "Create publish-ready videos from text prompts",
+    "description": "Invideo AI revolutionizes video creation by generating complete, publish-ready videos from simple text prompts. Describe your video idea in plain language, and Invideo's AI writes the script, selects relevant footage, adds voiceover, applies music, and creates a polished video in minutes. It's designed for creators who need professional video content without filming or extensive editing.\n\nThe platform's workflow AI analyzes your prompt to understand intent, audience, and platform, then generates a complete video optimized for your goals. You can refine the video through conversational prompts like 'make the intro more exciting' or 'change the background music,' and Invideo updates in real-time. The AI accesses a massive library of stock footage (16M+ assets), can clone your voice for consistent branding, and supports 50+ languages for global content creation.\n\nWhat makes Invideo AI transformative is end-to-end automation without sacrificing quality. YouTubers use it to produce explainer videos and listicles at scale, marketers create ad variations for A/B testing, and educators generate training content from course outlines. The platform offers templates for specific video types (YouTube Shorts, Instagram Reels, explainers) while maintaining flexibility for custom projects. Recent updates include watermark removal on free tier videos and improved voice cloning quality.",
+    "features": [
+      "Text-to-video generation",
+      "Workflow AI understands intent",
+      "16M+ stock media library",
+      "AI voice cloning",
+      "50+ languages",
+      "Conversational editing",
+      "Platform-optimized templates",
+      "Real-time video updates"
+    ],
+    "pricing": "Free tier 10 min/week. Plus $25/mo 50 min, Max $60/mo 200 min with voice cloning and watermark removal",
+    "url": "https://invideo.io/ai",
+    "bestFor": "YouTubers and marketers creating explainer videos and social content at scale",
+    "pros": [
+      "Complete automation from prompt to video",
+      "Conversational editing is intuitive",
+      "Massive stock library",
+      "Voice cloning for brand consistency",
+      "50+ language support"
+    ],
+    "cons": [
+      "Free tier limits weekly minutes",
+      "AI-selected footage can miss the mark",
+      "Voice cloning requires paid tier",
+      "Learning curve for optimal prompting"
+    ],
+    "rating": 4.6,
+    "metaTitle": "Invideo AI Review 2026: Text to Video with Complete Automation",
+    "metaDescription": "Invideo AI creates publish-ready videos from text prompts. Voice cloning, 16M+ stock assets, 50+ languages. Creator review."
+  },
+  {
+    "slug": "napkin-ai",
+    "name": "Napkin AI",
+    "category": "ai-writing-assistants",
+    "tagline": "Transform text into visual diagrams instantly",
+    "description": "Napkin AI bridges the gap between written ideas and visual communication by automatically transforming text into professional diagrams, flowcharts, and infographics. Paste your text or upload a document, and Napkin's AI analyzes the structure to generate visual representations that make complex information instantly understandable. It's designed for presenters, educators, consultants, and anyone who needs to communicate ideas visually without design skills.\n\nThe platform understands different content types and automatically selects appropriate visual formats—processes become flowcharts, comparisons turn into matrices, hierarchies become org charts, and timelines visualize sequences. Napkin offers multiple visual variations for each piece of text, allowing you to choose the style that best fits your needs. You can customize colors, fonts, icons, and layouts to match brand guidelines, or use AI suggestions for visual enhancements.\n\nWhat makes Napkin revolutionary is eliminating the blank canvas problem. Instead of staring at design tools wondering how to structure information, you focus on writing clear content and let Napkin handle visual translation. The platform is particularly powerful for business strategy decks, educational materials, process documentation, and technical explanations. Integration with presentation tools and export to PNG, SVG, and PDF make Napkin fit seamlessly into existing workflows. Teams use Napkin to create consistent visual languages across documentation.",
+    "features": [
+      "Text to diagram automation",
+      "Multiple visual format options",
+      "Smart content analysis",
+      "Brand customization",
+      "Icon library",
+      "Export to PNG/SVG/PDF",
+      "Presentation integration",
+      "Collaborative editing"
+    ],
+    "pricing": "Free tier 10 visuals/mo. Pro $10/mo unlimited visuals, Team $30/user/mo with collaboration and brand kits",
+    "url": "https://napkin.ai",
+    "bestFor": "Business professionals and educators creating diagrams and visual explanations",
+    "pros": [
+      "Eliminates design barrier",
+      "Multiple visual options per text",
+      "Fast diagram creation",
+      "Professional output quality",
+      "Affordable pricing"
+    ],
+    "cons": [
+      "Free tier very limited",
+      "Works best with structured text",
+      "Customization depth limited vs manual design",
+      "Learning curve for optimal text formatting"
+    ],
+    "rating": 4.5,
+    "metaTitle": "Napkin AI Review 2026: Turn Text into Visual Diagrams Instantly",
+    "metaDescription": "Napkin AI converts text into professional diagrams and infographics automatically. Flowcharts, matrices, timelines. Business review."
   }
 ]
